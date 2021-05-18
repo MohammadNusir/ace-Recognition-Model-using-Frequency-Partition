@@ -1,1 +1,2 @@
 # ace-Recognition-Model-using-Frequency-Partition
+The following model is developed in order to recognize face images based on Frequency Partition feature fusion using the ORL dataset; The proposed model has four main stages. The first stage is face detection using viola jones face detection algorithm; the second stage is global and local feature extraction using principal component analysis and local binary pattern; the third stage is feature fusion using Frequency Partition and the fourth and the final step is the classification using backpropagation neural network.
